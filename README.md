@@ -24,7 +24,8 @@ A simple and efficient **Task Tracker** application built with **React.js**, fea
 - ✏️ **Edit or delete** tasks as needed  
 - 🔒 **Tasks are securely stored** in Firestore
 
-- ## 🚀 Live Demo  
+
+## 🚀 Live Demo  
 🔗 [Task Tracker](https://tasktrackerbyrashmika.netlify.app/)
 
 
