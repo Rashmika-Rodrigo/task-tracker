@@ -22,5 +22,9 @@ A simple and efficient **Task Tracker** application built with **React.js**, fea
 - 🔑 **Sign up / Log in** using Firebase Authentication  
 - 📝 **Add tasks** by entering a title  
 - ✏️ **Edit or delete** tasks as needed  
-- 🔒 **Tasks are securely stored** in Firestore  
+- 🔒 **Tasks are securely stored** in Firestore
+
+- ## 🚀 Live Demo  
+🔗 [Task Tracker](https://tasktrackerbyrashmika.netlify.app/)
+
 
